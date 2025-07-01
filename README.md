@@ -1,37 +1,48 @@
-**🔺 Higher or Lower Game (Followers Edition)**
+# 🔺 Higher or Lower Game (Followers Edition)
 
 A fun console-based game where you compare celebrities and guess who has more followers on social media.
 
+---
 
-**🎮 How to Play**
+## 🎮 How to Play
 
-You're shown two famous people (or brands).
+- You are shown two famous people (or brands).  
+- Each round, choose who you think has more followers:  
+  Type **'A'** or **'B'**  
+- If you're correct, your score increases and the game continues.  
+- A wrong guess ends the game with your final score.
 
-Each round, choose who you think has more followers:
+---
 
-Type 'A' or 'B'
+## 📦 Features
 
-If you're correct, your score increases — and the game continues.
+- Uses real-like sample data (`game_data`)  
+- Dynamic ASCII logo and VS art  
 
-A wrong guess ends the game with your final score.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e87b2bbe-f562-4f8c-a086-d26db6e09e45" width="200" />
+  <img src="https://github.com/user-attachments/assets/eccabf36-0c10-4c2f-8e8c-add81729dec4" width="200" />
+</p>
 
+- Randomized comparisons every round  
+- Score tracking with feedback  
 
-**📦 Features**
-Uses real-like sample data (game_data)
+---
 
-Dynamic ASCII logo and vs art
+## 🧰 Requirements
 
-**![image](https://github.com/user-attachments/assets/e87b2bbe-f562-4f8c-a086-d26db6e09e45)**
+- Python 3.x  
+- Standard input/output  
 
-**![image](https://github.com/user-attachments/assets/eccabf36-0c10-4c2f-8e8c-add81729dec4)**
+---
 
+## 🚀 How to Run
 
-Randomized comparisons
+Simply run:
 
-Score tracking & feedback
+```bash
+python higher_lower.py
 
-
-**🧰 Requirements**
 Python 3.x
 
 Two local files:
