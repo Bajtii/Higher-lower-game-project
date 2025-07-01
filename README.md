@@ -21,23 +21,10 @@ Uses real-like sample data (game_data)
 
 Dynamic ASCII logo and vs art
 
-   __  ___       __             
-   / / / (_)___ _/ /_  ___  _____
-  / /_/ / / __ `/ __ \/ _ \/ ___/
- / __  / / /_/ / / / /  __/ /    
-/_/ ///_/\__, /_/ /_/\___/_/     
-   / /  /____/_      _____  _____
-  / /   / __ \ | /| / / _ \/ ___/
- / /___/ /_/ / |/ |/ /  __/ /    
-/_____/\____/|__/|__/\___/_/     
-"""
+**![image](https://github.com/user-attachments/assets/e87b2bbe-f562-4f8c-a086-d26db6e09e45)**
 
- _    __    
-| |  / /____
-| | / / ___/
-| |/ (__  ) 
-|___/____(_)
-"""
+**![image](https://github.com/user-attachments/assets/eccabf36-0c10-4c2f-8e8c-add81729dec4)**
+
 
 Randomized comparisons
 
